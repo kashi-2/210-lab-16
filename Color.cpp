@@ -34,7 +34,7 @@ using namespace std;
         void print() const;
     
     };
-//main() -Test the class
+//main() gTest the class
 int main()
 {
     cout << "===== Color Objects =====\n\n";
